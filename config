@@ -35,12 +35,6 @@
     url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/酷咖游戏_1.4.5.apk'
   },
 
-{
-    name: 'IPTV_4.8.23.apk',
-    url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/IPTV_4.8.23.apk'
-},
-
-
   {
     name: '点播YouTube_2.15.006.apk',
     url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/点播YouTube_2.15.006.apk'
@@ -60,10 +54,6 @@
   {
     name: 'ProtonVPN.apk',
     url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/ProtonVPN.apk'
-  },
-  {
-    name: 'Youtube Kids.apk',
-    url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/Youtube Kids.apk'
   },
   {
     name: 'Emotn 2026.06.06版本.apk',
