@@ -5,6 +5,11 @@
     url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/HMTV_Mall.apk'
   },
 
+{
+    name: 'IPTV_4.8.23.apk',
+    url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/IPTV_4.8.23.apk'
+},
+
   {
     name: 'Smart Youtube',
     url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/smarttube_stable.apk'
