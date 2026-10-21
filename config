@@ -62,5 +62,9 @@
   {
     name: '100合1_1.6.7.apk',
     url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/100合1_1.6.7.apk'
+  },
+  {
+    name: 'Aerial tvOS桌面.apk',
+    url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/Aerial_tvOS桌面.apk'
   }
 ]
