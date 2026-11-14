@@ -8,6 +8,10 @@
     url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/HMTV_Mall.apk'
   },
   {
+    name: '抖音.apk',
+    url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/myDV-2.3.45.apk'
+  },
+  {
     name: 'IPTV (请勿删除内置IPTV，否则账号会丢失).apk',
     url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/IPTV_4.8.23.apk'
   },
