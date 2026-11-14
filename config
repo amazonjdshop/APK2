@@ -1,5 +1,9 @@
 [
   {
+    name: 'HMTV桌面.apk',
+    url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/HMTV桌面.apk'
+  },
+  {
     name: '潘多拉影视v3 - 553版本.apk',
     url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/%E5%BF%85%E8%A3%85%20HM%E6%BD%98%E5%A4%9A%E6%8B%89%E5%BD%B1%E8%A7%86%202026.07%E7%89%88%E6%9C%AC.apk'
   },
@@ -62,9 +66,5 @@
   {
     name: '100合1_1.6.7.apk',
     url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/100合1_1.6.7.apk'
-  },
-  {
-    name: 'Aerial tvOS桌面.apk',
-    url: 'https://github.com/amazonjdshop/APK2/raw/refs/heads/main/Aerial_tvOS桌面.apk'
   }
 ]
